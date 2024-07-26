@@ -3,7 +3,7 @@
 
 <template>
   <div>
-  <h1>La mia prima app con Vite!</h1>
+<img src="https://picsum.photos/200/300" alt="imgRandom">
   </div>
 </template>
 
