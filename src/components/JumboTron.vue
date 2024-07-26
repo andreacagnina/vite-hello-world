@@ -2,10 +2,13 @@
 </script>
 
 <template>
-  <div>
-<img src="https://picsum.photos/200/300" alt="imgRandom">
-  </div>
+<div>
+<img src="https://picsum.photos/1200/600" alt="imgRandom">
+</div>
 </template>
 
 <style scoped>
+div {
+  text-align: center;
+}
 </style>
